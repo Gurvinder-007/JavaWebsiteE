@@ -1,0 +1,8 @@
+com\exchangeagency\util\DBInitializer.class
+com\exchangeagency\servlet\AddListingServlet.class
+com\exchangeagency\model\Listing.class
+com\exchangeagency\dao\ListingDAO.class
+com\exchangeagency\servlet\ListListingsServlet.class
+com\exchangeagency\util\DBUtil.class
+com\exchangeagency\model\Category.class
+com\exchangeagency\servlet\AppInitializer.class
